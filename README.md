@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **mandipchhetri49@gmail.com**
 
-- ⚡ Fun fact **Student😅**
+- ⚡ Fun fact **: Isn't the confusion matrix itself a bit... confusing?😅**
 
 <p align="left">
 </p>
