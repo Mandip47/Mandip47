@@ -22,6 +22,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=mandip47&theme=radical&hide_border=true&show_icons=true&locale=en" height="137" alt="mandip47" /></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mandip47&theme=radical&hide_border=true&" height="150" alt="mandip47" /></td>
+    <td colspan="2" align="center"><img src="https://streak-stats.demolab.com?user=mandip47&theme=omni&hide_border=true&" height="150" alt="mandip47" /></td>
   </tr>
 </table>
